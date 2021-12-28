@@ -9,5 +9,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marceg88/express1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marceg88/express1/issues"
+  },
+  "homepage": "https://github.com/marceg88/express1#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }

@@ -1,6 +1,6 @@
 import http from 'http'
 import express from 'express'
-
+//incializa la aplicación express
 const app = express()
 const server = http.createServer(app)
 
